@@ -4,4 +4,4 @@
 All of these projects are built off of the projects taught in this course:
 https://www.udemy.com/course/50-projects-50-days
 
-I have done my best to add or alter each one in order to cement my own learning as well as to prove i undertsood the concepts taught.
+some of them have been altered or improved
